@@ -1,0 +1,6 @@
+{
+  "name": "Tool Store",
+  "description": "Desktop tool store management system with real-time inventory tracking, tool issues and returns, calibration records, employee data, and Microsoft Lists Power Automate sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
