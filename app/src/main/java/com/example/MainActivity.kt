@@ -234,6 +234,7 @@ fun ToolStoreApp(
             onDisconnect = { viewModel.saveCloudUrl("") },
             onDismiss = { viewModel.closeCloudSettings() }
         )
+        }
     }
 }
 
